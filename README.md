@@ -2,7 +2,6 @@
 CC Store Script
 Use this script to sell your CC data, dumps, logs, tools etc.
 Automated Crypto Payment Gateways added.
-https://youtu.be/58Lq_bLx3l4
 Telegram: @rbinrs (NEW)
 Telegram: @binrsbot
 Telegram: @ordersclickz 
